@@ -33,7 +33,7 @@ body {
 a { color: inherit; }
 h1, h2, h3, h4, p { margin: 0; }
 ul { margin: 0; padding: 0; list-style: none; }
-em { font-style: italic; color: var(--accent); }
+em { font-style: normal; color: var(--accent); }
 
 .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 28px; }
 .label, .eyebrow, .idx, .years, .dates {

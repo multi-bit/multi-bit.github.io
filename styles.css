@@ -474,7 +474,7 @@ body.hovering #scene { cursor: pointer; }
 
 .btn.primary {
   border-color: transparent;
-  background: linear-gradient(135deg, #ffb347, #ff5e7a 55%, #8b5bff);
+  background: aliceblue;
   color: #12041a;
   box-shadow: 0 10px 40px rgba(255, 110, 100, 0.35);
 }
